@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConnectApi</string>
+    <string name="input_hint">Введите имя бога</string>
+    <string name="button_send">Отправить</string>
+    <string name="button_get">Получить значение</string>
+    <string name="god_prefix">Имя</string>
+
+</resources>
